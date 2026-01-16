@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nw8NvU6fIts=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ov\\Desktop\\cybersecurity-labs-vynohradov-mainV2\\lab3\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ov\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.1\\microsoft.win32.systemevents.10.0.1.nupkg.sha512",
+    "C:\\Users\\ov\\.nuget\\packages\\system.drawing.common\\10.0.1\\system.drawing.common.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

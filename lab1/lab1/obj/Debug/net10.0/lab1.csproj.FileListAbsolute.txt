@@ -1,0 +1,14 @@
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\bin\Debug\net10.0\lab1.exe
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\bin\Debug\net10.0\lab1.deps.json
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\bin\Debug\net10.0\lab1.runtimeconfig.json
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\bin\Debug\net10.0\lab1.dll
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\bin\Debug\net10.0\lab1.pdb
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\obj\Debug\net10.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\obj\Debug\net10.0\lab1.AssemblyInfoInputs.cache
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\obj\Debug\net10.0\lab1.AssemblyInfo.cs
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\obj\Debug\net10.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\obj\Debug\net10.0\lab1.dll
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\obj\Debug\net10.0\refint\lab1.dll
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\obj\Debug\net10.0\lab1.pdb
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\obj\Debug\net10.0\lab1.genruntimeconfig.cache
+C:\Users\ov\Desktop\cybersecurity-labs-vynohradov-mainV2\lab1\lab1\obj\Debug\net10.0\ref\lab1.dll
