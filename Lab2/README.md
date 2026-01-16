@@ -44,7 +44,6 @@
 
 Застосунок повинен демонструвати принципи роботи шифру Цезаря та шифру Віженера, а також наочно показувати різницю у рівні їх криптостійкості.
 
-<img width="1292" height="913" alt="13" src="https://github.com/user-attachments/assets/d5272a20-61cc-4e39-a0e8-2553b81b2922" />
 
 ---------------------------------------------------------------------
 
@@ -58,10 +57,22 @@
 2. Далі виконано шифрування та дешифрування власного імені за допомогою шифру Віженера з ключем на основі власного прізвища.  
 3. Зафіксовано результати та зроблено висновки щодо відмінностей між алгоритмами.
 
-<img width="1721" height="545" alt="1" src="https://github.com/user-attachments/assets/9073d0e9-934b-4dde-808c-647621d63c0d" />
-<img width="1337" height="437" alt="2" src="https://github.com/user-attachments/assets/fb0d0ca5-8310-4e6e-865f-d7bb3caacc5c" />
-<img width="1301" height="530" alt="3" src="https://github.com/user-attachments/assets/a0a66aa0-13be-49aa-b728-cf3ac27fa841" />
-<img width="1302" height="588" alt="4" src="https://github.com/user-attachments/assets/bf8bc2d6-838d-4515-b1ad-7ff3d4bff7a1" />
+**Рисунок 1.1 – Онлайн-сервіс Cryptii**
+
+![](screenshots/1.png)
+
+**Рисунок 1.2 – Шифрування імені шифром Цезаря (зсув 7)**
+
+![](screenshots/2.png)
+
+**Рисунок 1.3 – Шифрування імені шифром Віженера**
+
+![](screenshots/3.png)
+
+**Рисунок 1.4 – Дешифрування тексту шифром Віженера**
+
+![](screenshots/4.png)
+
 
 ---------------------------------------------------------------------
 
@@ -83,12 +94,30 @@
 – шифри Цезаря та Атбаш є найпростішими у налаштуванні;  
 – закономірності у зашифрованому тексті чітко видно у моноалфавітних шифрах.
 
-<img width="1511" height="431" alt="5" src="https://github.com/user-attachments/assets/f55bea7c-7f20-4507-8aa4-4653919a8a3a" />
-<img width="1507" height="478" alt="6" src="https://github.com/user-attachments/assets/17bcb81a-1317-4fe6-b129-a4b226619ec3" />
-<img width="1489" height="450" alt="7" src="https://github.com/user-attachments/assets/373d8393-92d2-47ea-8e6f-8a3a5b2c0c8f" />
-<img width="1541" height="558" alt="8" src="https://github.com/user-attachments/assets/a6ebe4a5-c431-49b5-b626-9bd8ebe4063a" />
-<img width="1708" height="546" alt="9" src="https://github.com/user-attachments/assets/681aee22-5989-4284-9b40-f7fbc3cb0634" />
-<img width="1656" height="572" alt="10" src="https://github.com/user-attachments/assets/a9b09034-33f4-4af1-b3b7-e2b1d72b7298" />
+**Рисунок 2.1 – Вихідний текст для шифрування**
+
+![](screenshots/5.png)
+
+**Рисунок 2.2 – Результат шифрування шифром Цезаря**
+
+![](screenshots/6.png)
+
+**Рисунок 2.3 – Результат шифрування шифром Віженера**
+
+![](screenshots/7.png)
+
+**Рисунок 2.4 – Результат шифрування шифром Атбаш**
+
+![](screenshots/8.png)
+
+**Рисунок 2.5 – Порівняння читабельності шифротекстів**
+
+![](screenshots/9.png)
+
+**Рисунок 2.6 – Загальний вигляд результатів шифрування**
+
+![](screenshots/10.png)
+
 
 ---------------------------------------------------------------------
 
@@ -103,8 +132,14 @@
 
 Найпростішим методом злому виявився Brute Force, що підтверджує низьку криптостійкість шифру Цезаря.
 
-<img width="1549" height="480" alt="11" src="https://github.com/user-attachments/assets/5324c0ce-c3e1-4f96-89d5-757e68b9893b" />
-<img width="1569" height="468" alt="12" src="https://github.com/user-attachments/assets/c899fbb0-fea9-40a8-89b4-fa86bbff2aa4" />
+**Рисунок 3.1 – Повний перебір зсувів шифру Цезаря (Brute Force)**
+
+![](screenshots/11.png)
+
+**Рисунок 3.2 – Виявлення правильного зсуву та відновлення тексту**
+
+![](screenshots/12.png)
+
 
 
 ---------------------------------------------------------------------
@@ -115,6 +150,10 @@
 
 
 Фінальний програмний код наведений у репозиторії разом із лабораторною роботою.
+
+**Рисунок 4.1 – Консольний застосунок для демонстрації шифрів**
+
+![](screenshots/13.png)
 
 ---------------------------------------------------------------------
 
