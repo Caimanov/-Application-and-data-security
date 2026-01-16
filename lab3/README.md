@@ -60,13 +60,34 @@
 онлайн-сервіси, які дозволяють приховувати та витягувати текст у
 зображеннях без програмування.
 
-<img width="1852" height="954" alt="1" src="https://github.com/user-attachments/assets/5ae2290b-6a13-4106-8f6b-8d03480dab05" />
-<img width="1217" height="540" alt="2" src="https://github.com/user-attachments/assets/070faf4f-89cf-499f-8cb1-95e0c70da0df" />
-<img width="1130" height="646" alt="3" src="https://github.com/user-attachments/assets/ce4b4b07-25c7-40a3-bc4a-aea3842c7913" />
-<img width="1197" height="350" alt="4" src="https://github.com/user-attachments/assets/0224075a-5b80-4caa-a645-f1b07e42997d" />
-<img width="1191" height="250" alt="5" src="https://github.com/user-attachments/assets/e08cfc63-ea0a-4ccb-8dcd-056115f5bd28" />
-<img width="793" height="360" alt="6" src="https://github.com/user-attachments/assets/fd11cc26-9b64-4a7b-a708-bef1f01bcdc2" />
-<img width="1176" height="811" alt="7" src="https://github.com/user-attachments/assets/d1e2a020-8495-42af-ada1-e07711cfc840" />
+**Рисунок 1.1 – Онлайн-сервіс для дослідження стеганографії**
+
+![](screenshots/1.png)
+
+**Рисунок 1.2 – Інтерфейс сервісу приховування повідомлень**
+
+![](screenshots/2.png)
+
+**Рисунок 1.3 – Вибір зображення-контейнера**
+
+![](screenshots/3.png)
+
+**Рисунок 1.4 – Введення текстового повідомлення для приховування**
+
+![](screenshots/4.png)
+
+**Рисунок 1.5 – Процес приховування повідомлення у зображенні**
+
+![](screenshots/5.png)
+
+**Рисунок 1.6 – Перехід до режиму витягування повідомлення**
+
+![](screenshots/6.png)
+
+**Рисунок 1.7 – Результат витягування прихованого повідомлення**
+
+![](screenshots/7.png)
+
 
 ---------------------------------------------------------------------
 
@@ -78,14 +99,38 @@
 Після приховування повідомлення було отримано стегоконтейнер, який
 візуально не відрізняється від оригінального зображення.
 
-<img width="500" height="500" alt="8" src="https://github.com/user-attachments/assets/e4cc41d8-4383-49b0-808d-d7e5855c1fdc" />
-<img width="1185" height="396" alt="9" src="https://github.com/user-attachments/assets/9027ae9d-b9d5-4eea-89c6-1b419d9e4580" />
-<img width="802" height="474" alt="10" src="https://github.com/user-attachments/assets/cdc5c0e2-9f43-47b2-8107-88fd35088e2b" />
-<img width="1248" height="788" alt="11" src="https://github.com/user-attachments/assets/d46191b3-f2d8-45af-bf75-db37c1bad384" />
-<img width="1183" height="884" alt="12" src="https://github.com/user-attachments/assets/e79a257d-00d6-4a36-8e04-42042b102c98" />
-<img width="1267" height="486" alt="13" src="https://github.com/user-attachments/assets/8ac2540f-5e5c-4ead-825d-897be4cb081d" />
-<img width="1053" height="437" alt="14" src="https://github.com/user-attachments/assets/c4c17357-f1a3-47b1-a3e1-05d400b6ea7d" />
-<img width="1068" height="474" alt="15" src="https://github.com/user-attachments/assets/700aee72-848c-498a-ba6e-e40d46b2a947" />
+**Рисунок 2.1 – Оригінальне зображення для приховування даних**
+
+![](screenshots/8.png)
+
+**Рисунок 2.2 – Введення персонального повідомлення**
+
+![](screenshots/9.png)
+
+**Рисунок 2.3 – Процес створення стегоконтейнера**
+
+![](screenshots/10.png)
+
+**Рисунок 2.4 – Отриманий файл стегоконтейнера**
+
+![](screenshots/11.png)
+
+**Рисунок 2.5 – Порівняння оригінального та зміненого зображень**
+
+![](screenshots/12.png)
+
+**Рисунок 2.6 – Відсутність візуальних змін у зображенні**
+
+![](screenshots/13.png)
+
+**Рисунок 2.7 – Аналіз змін пікселів у зображенні**
+
+![](screenshots/14.png)
+
+**Рисунок 2.8 – Порівняльний аналіз результатів приховування**
+
+![](screenshots/15.png)
+
 
 
 ---------------------------------------------------------------------
@@ -96,15 +141,43 @@
 Отриманий текст повністю відповідає початковому, що підтверджує
 коректність реалізації алгоритму.
 
-<img width="1818" height="922" alt="16" src="https://github.com/user-attachments/assets/c238f961-d24c-4007-bc55-e2c3f5258eb2" />
-<img width="640" height="427" alt="17" src="https://github.com/user-attachments/assets/b906ec21-b950-4650-bed2-da4bc7e33760" />
-<img width="640" height="427" alt="18" src="https://github.com/user-attachments/assets/0e0e5455-513e-4412-9508-30c43f6be01f" />
-<img width="1766" height="811" alt="19" src="https://github.com/user-attachments/assets/ec251fe4-9957-44ab-b764-008bb6d8226f" />
-<img width="1200" height="954" alt="20" src="https://github.com/user-attachments/assets/c1420913-2631-49cd-b7c1-60c3e3b46093" />
-<img width="1234" height="927" alt="21" src="https://github.com/user-attachments/assets/ad943bd6-cf49-4645-afe7-86486945a6be" />
-<img width="1235" height="958" alt="22" src="https://github.com/user-attachments/assets/7848d017-12f1-4269-b68c-6f6ff4631f01" />
-<img width="1291" height="906" alt="23" src="https://github.com/user-attachments/assets/ebe3bf24-da48-45d6-bf7e-8ced53cf0280" />
-<img width="1074" height="933" alt="24" src="https://github.com/user-attachments/assets/8aee89fb-0a72-4610-a9a9-61c1ea0c7903" />
+**Рисунок 3.1 – Запуск процесу витягування прихованого повідомлення**
+
+![](screenshots/16.png)
+
+**Рисунок 3.2 – Вибір стегоконтейнера для аналізу**
+
+![](screenshots/17.png)
+
+**Рисунок 3.3 – Процес зчитування прихованих даних**
+
+![](screenshots/18.png)
+
+**Рисунок 3.4 – Отримане приховане повідомлення**
+
+![](screenshots/19.png)
+
+**Рисунок 3.5 – Порівняння вихідного та відновленого повідомлення**
+
+![](screenshots/20.png)
+
+**Рисунок 3.6 – Перевірка цілісності прихованих даних**
+
+![](screenshots/21.png)
+
+**Рисунок 3.7 – Підтвердження коректності витягування повідомлення**
+
+![](screenshots/22.png)
+
+**Рисунок 3.8 – Повторне витягування прихованих даних**
+
+![](screenshots/23.png)
+
+**Рисунок 3.9 – Результат повторної перевірки**
+
+![](screenshots/24.png)
+
+
 
 
 
@@ -119,12 +192,31 @@
 
 Такі дані можуть створювати загрозу витоку персональної інформації.
 
-<img width="1597" height="616" alt="25" src="https://github.com/user-attachments/assets/91d36011-1b49-4c2c-a6c2-3623951f3bd6" />
-<img width="600" height="800" alt="26" src="https://github.com/user-attachments/assets/bf1a4630-211c-4bbf-9d89-8ef407088b3e" />
-<img width="1167" height="908" alt="27" src="https://github.com/user-attachments/assets/5ee1278f-13d2-4c19-8309-19f1dca41f99" />
-<img width="1030" height="764" alt="28" src="https://github.com/user-attachments/assets/837f9231-8d8a-4436-84b9-c4b0d2fd499c" />
-<img width="1449" height="724" alt="29" src="https://github.com/user-attachments/assets/10fd382f-b221-4400-a47b-6448b5d88b49" />
-<img width="1348" height="850" alt="30" src="https://github.com/user-attachments/assets/7fea218e-622d-4508-9fa2-c6d9d5d354d1" />
+**Рисунок 4.1 – Перегляд метаданих зображення**
+
+![](screenshots/25.png)
+
+**Рисунок 4.2 – Аналіз EXIF-даних файлу**
+
+![](screenshots/26.png)
+
+**Рисунок 4.3 – Дані про пристрій створення зображення**
+
+![](screenshots/27.png)
+
+**Рисунок 4.4 – Аналіз дати та часу створення файлу**
+
+![](screenshots/28.png)
+
+**Рисунок 4.5 – Перевірка геолокаційних даних**
+
+![](screenshots/29.png)
+
+**Рисунок 4.6 – Потенційні ризики витоку персональних даних**
+
+![](screenshots/30.png)
+
+
 
 
 ---------------------------------------------------------------------
@@ -140,8 +232,14 @@
 – перевірку розміру повідомлення;
 – аналіз змін між зображеннями.
 
-<img width="624" height="264" alt="31" src="https://github.com/user-attachments/assets/224372d6-1efc-43c0-a0c1-a159ff6d7dfd" />
-<img width="624" height="192" alt="32" src="https://github.com/user-attachments/assets/038577a1-648d-4420-93b3-5cd61331647c" />
+**Рисунок 5.1 – Головне меню консольного застосунку**
+
+![](screenshots/31.png)
+
+**Рисунок 5.2 – Робота програми у режимі LSB-стеганографії**
+
+![](screenshots/32.png)
+
 
 ---------------------------------------------------------------------
 
