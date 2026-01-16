@@ -53,8 +53,13 @@ vynohradov.oleh@hneu.net
 Результат перевірки:  
 Станом на момент перевірки витоків персональних даних не виявлено. Електронна адреса не була знайдена у відомих базах скомпрометованих облікових записів.
 
-<img width="1203" height="824" alt="1" src="https://github.com/user-attachments/assets/c39d3805-28e6-41ae-bd43-9d094b3f4f43" />
-<img width="1333" height="936" alt="2" src="https://github.com/user-attachments/assets/661adbf8-4be9-472d-af65-fa1212916aea" />
+**Рисунок 1.1 – Введення електронної адреси для перевірки**
+
+![](screenshots/1.png)
+
+**Рисунок 1.2 – Результат перевірки: витоків не знайдено**
+
+![](screenshots/2.png)
 
 
 ---------------------------------------------------------------------
@@ -72,12 +77,30 @@ Oleg2002#1510
 Перевірка складності паролів виконувалася за допомогою онлайн-сервісу PasswordMeter.
 
 Результати аналізу показали, що паролі, які містять персональні дані, мають низький або середній рівень захищеності. Навіть додавання спеціальних символів не забезпечує достатній рівень безпеки, оскільки такі паролі легко піддаються підбору за допомогою соціальної інженерії.
-<img width="1015" height="950" alt="3" src="https://github.com/user-attachments/assets/5e627987-8087-4197-826a-ac4910d28fa3" />
-<img width="868" height="906" alt="4" src="https://github.com/user-attachments/assets/26a6464c-e5e3-409e-9f60-8964a8406cd1" />
-<img width="924" height="887" alt="5" src="https://github.com/user-attachments/assets/3a68cdd2-712d-48e7-835e-2354a20f2a02" />
-<img width="894" height="888" alt="6" src="https://github.com/user-attachments/assets/839ee7cf-1372-4e63-b3ba-a546f78883ae" />
-<img width="887" height="897" alt="7" src="https://github.com/user-attachments/assets/482fc163-4574-4328-961c-2929a289c8d2" />
-<img width="866" height="904" alt="8" src="https://github.com/user-attachments/assets/50e91ec9-9af5-4da3-bf1d-b7cd9bbb9daf" />
+
+**Рисунок 2.1 – Онлайн-сервіс Password Meter**
+
+![](screenshots/3.png)
+
+**Рисунок 2.2 – Перевірка пароля Oleg15102002**
+
+![](screenshots/4.png)
+
+**Рисунок 2.3 – Перевірка пароля Oleg_15_10_02**
+
+![](screenshots/5.png)
+
+**Рисунок 2.4 – Перевірка пароля 15Oleg2002!**
+
+![](screenshots/6.png)
+
+**Рисунок 2.5 – Перевірка пароля OL15eg2002**
+
+![](screenshots/7.png)
+
+**Рисунок 2.6 – Перевірка пароля Oleg2002#1510**
+
+![](screenshots/8.png)
 
 ---------------------------------------------------------------------
 
@@ -87,8 +110,14 @@ Oleg2002#1510
 
 У результаті аналізу встановлено, що доступ до персональної інформації обмежений, основні налаштування приватності увімкнені, а сторонні користувачі не мають доступу до конфіденційних даних.
 
-<img width="380" height="821" alt="9" src="https://github.com/user-attachments/assets/1df8f064-d133-4395-81d5-302d14f0d140" />
-<img width="372" height="832" alt="10" src="https://github.com/user-attachments/assets/e85e3c4b-491e-409e-ae4c-7519af0aa5af" />
+**Рисунок 3.1 – Налаштування приватності Instagram**
+
+![](screenshots/9.png)
+
+**Рисунок 3.2 – Налаштування приватності Telegram**
+
+![](screenshots/10.png)
+
 
 
 ---------------------------------------------------------------------
@@ -99,16 +128,34 @@ Oleg2002#1510
 
 У результаті пошуку було знайдено інформацію, пов’язану з електронною поштою, навчанням у закладі вищої освіти, а також професійні профілі. Конфіденційної або критично важливої інформації, яка могла б становити загрозу цифровій безпеці, не виявлено.
 
-<img width="1068" height="942" alt="11" src="https://github.com/user-attachments/assets/8dc4f8e2-3080-46fd-811c-a006716755a6" />
-<img width="848" height="944" alt="12" src="https://github.com/user-attachments/assets/080cf213-2139-4a79-8b10-703429c50862" />
-<img width="1059" height="965" alt="13" src="https://github.com/user-attachments/assets/2f5001a3-eb07-4e32-b08c-6964a13a42fc" />
-<img width="783" height="951" alt="14" src="https://github.com/user-attachments/assets/2ed53733-2262-4f2e-bda8-1736634847fe" />
+**Рисунок 4.1 – Результати пошуку імені українською мовою**
+
+![](screenshots/11.png)
+
+**Рисунок 4.2 – Додаткова публічна інформація з Google**
+
+![](screenshots/12.png)
+
+**Рисунок 4.3 – Результати пошуку електронної пошти ХНЕУ**
+
+![](screenshots/13.png)
+
+**Рисунок 4.4 – Додаткові результати пошуку цифрового сліду**
+
+![](screenshots/14.png)
+
 
 ---------------------------------------------------------------------
 ВИКОНАННЯ ПРОГРАМНОГО КОДУ/
 
-<img width="385" height="378" alt="15" src="https://github.com/user-attachments/assets/3707fd24-a445-4869-bf0b-6b819b8cbd54" />
-<img width="316" height="319" alt="16" src="https://github.com/user-attachments/assets/da312a49-5e9f-42a9-97ca-729aba7e4ad1" />
+**Рисунок 5.1 – Робота програми зі слабким паролем**
+
+![](screenshots/15.png)
+
+**Рисунок 5.2 – Робота програми з сильним паролем**
+
+![](screenshots/16.png)
+![](screenshots/17.png)
 
 
 ---------------------------------------------------------------------
